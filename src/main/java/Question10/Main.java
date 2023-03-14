@@ -1,4 +1,4 @@
-package shapes;
+package Question10;
 
 import shapes.Circle;
 import shapes.Rectangle;
